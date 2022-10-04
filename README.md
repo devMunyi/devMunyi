@@ -14,9 +14,12 @@
 
 ##
 
-** 🔭 I’m currently a student @![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school **
-** 🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) [](https://img.shields.io/npm/types/typescriptt).
-**👯 I’m looking to collaborate on new projects.**
+**🔭 I’m currently a student @![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
+
+**🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) [](https://img.shields.io/npm/types/typescriptt)**
+
+**👯 I’m looking to collaborate on new projects**
+
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174//),[WhatsApp](https://wa.me/254112553167), <a href="mailto:samunyi90@gmail.com" target="_blanck"> Gmail </a>**
 
 
