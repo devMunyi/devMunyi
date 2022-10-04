@@ -1,29 +1,30 @@
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=1000&lines=Hello+There+👋;I'm+Samuel;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-### Hi there <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="40" height="40"/>, I'm Samuel.
 
-##
+### ABOUT ME
+**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Software Developer with over 1 year of active experience**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=Over+2+years+of+active+experience.;I+build+edge+cutting+business+logic.;Always+happy+to+learn+new+skills.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+**🔭 Currently studying at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
+
+**🌱 I’m learning ![](https://img.shields.io/badge/ReactJs-brightgreen) ![](https://img.shields.io/badge/Ruby-Rails-red)**
+
+**🟠 Ask me about Coding and Technology**
+
+**👯 I’m looking to collaborate new projects**
+
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174//),[WhatsApp](https://wa.me/254112553167), <a href="mailto:samunyi90@gmail.com" target="_blanck"> Gmail </a>**
+
+
 
 ##
 
 ## 🥇 Stack
 
-![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/jQuery-blue) ![](https://img.shields.io/badge/NodeJs-brightgreen) ![](https://img.shields.io/badge/PHP-blue)   ![](https://img.shields.io/badge/Git-Github-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange)  ![](https://img.shields.io/badge/CSS3-Bootstrap-AntD)
+![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/jQuery-blue) ![](https://img.shields.io/badge/NodeJs-brightgreen) ![](https://img.shields.io/badge/PHP-blue)   ![](https://img.shields.io/badge/Git-Github-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS3-Bootstrap-AntD)
 
 ##
 
-**🔭 I’m currently a student @![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
 
-**🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) [](https://img.shields.io/npm/types/typescriptt)**
-
-**👯 I’m looking to collaborate on new projects**
-
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174//),[WhatsApp](https://wa.me/254112553167), <a href="mailto:samunyi90@gmail.com" target="_blanck"> Gmail </a>**
-
-
-##
 
 ## Stats
 
