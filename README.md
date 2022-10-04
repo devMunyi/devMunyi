@@ -10,7 +10,7 @@
 
 ## 🥇 Stack
 
-![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS-CSS3-blue) ![](https://img.shields.io/badge/HTML-haml-yellow) ![](https://img.shields.io/badge/git-Git-brightgreen) ![](https://img.shields.io/badge/CSS-Tailwind-CSS)
+![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/jQuery-blue) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS-CSS3-blue)  ![](https://img.shields.io/badge/git-Git-brightgreen) ![](https://img.shields.io/badge/CSS-Tailwind-CSS)
 
 ##
 
