@@ -2,7 +2,7 @@
 
 
 ### ABOUT ME
-**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Software Developer with over 1 year of active experience**
+**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Software Developer with over 2 years of active experience**
 
 **🔭 Currently studying at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
 
