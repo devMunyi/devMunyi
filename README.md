@@ -10,7 +10,7 @@
 
 **🟠 Ask me about Coding and Technology**
 
-**👯 I’m looking to collaborate new projects**
+**👯 I’m looking to collaborate on new projects**
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174//), [WhatsApp](https://wa.me/254112553167), <a href="mailto:samunyi90@gmail.com" target="_blanck"> Gmail </a>**
 
