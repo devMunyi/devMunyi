@@ -20,7 +20,7 @@
 
 ## 🥇 Stack
 
-![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/jQuery-blue) ![](https://img.shields.io/badge/NodeJs-brightgreen) ![](https://img.shields.io/badge/PHP-blue)   ![](https://img.shields.io/badge/Git-Github-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS3-Bootstrap-AntD)
+![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/jQuery-blue) ![](https://img.shields.io/badge/NodeJs-brightgreen) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/MySQL-MongoDB-blue) ![](https://img.shields.io/badge/Git-Github-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS3-Bootstrap-AntD)
 
 ##
 
