@@ -4,13 +4,11 @@
 ### ABOUT ME
 **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Software Developer with over 2 years of active experience**
 
-**🔭 Currently studying at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
-
-**🌱 I’m learning ![](https://img.shields.io/badge/ReactJs-brightgreen) ![](https://img.shields.io/badge/Ruby-Rails-red)**
+**🌱 Currently exploring more technologies and challenges at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school***
 
 **🟠 Ask me about Coding and Technology**
 
-**👯 I’m looking to collaborate on new projects**
+**👯 Looking to collaborate on new projects**
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174//), [WhatsApp](https://wa.me/254112553167), <a href="mailto:samunyi90@gmail.com" target="_blanck"> Gmail </a>**
 
