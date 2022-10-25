@@ -4,7 +4,7 @@
 ### ABOUT ME
 **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Software Developer with over 2 years of active experience**
 
-**🌱 Currently exploring more technologies and challenges at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school***
+**🌱 Currently exploring more technologies and challenges at [Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school**
 
 **🟠 Ask me about Coding and Technology**
 
