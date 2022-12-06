@@ -22,8 +22,6 @@
 
 ##
 
-
-![devMunyi's g𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=devMunyi&theme=redical&hide_border=true&area=true)
 | [![devMunyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMunyi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)             | ![devMunyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devMunyi&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devMunyi&langs_count=8&theme=radical&layout=compact) 
