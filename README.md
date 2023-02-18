@@ -14,13 +14,6 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
   - Professional Leadership Training with Distinction in 2018
   - Professional Computer Application Training with Distinction in 2014
 &nbsp;
-## Hobbies
-  - I like going for a workout and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
-  - I Love travelling to new Places ✈️ !
-&nbsp;
-
-##
-
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -94,11 +87,18 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devMunyi&langs_count=8&theme=radical&layout=compact) 
   
+## Hobbies
+  - I like going for a workout and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
+  - I Love travelling to new Places ✈️ !
+&nbsp;
+##
     
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
-## Connect with me On:
+## 
+  
+## Connect with me on:
   
 <a target="_blank"
 href="mailto:samunyi90@gmail.com"><img
