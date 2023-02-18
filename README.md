@@ -41,6 +41,7 @@ I have Completed :
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Ant Design-563D7C?style=for-the-badge&logo=Ant-Design&logoColor=FF2625">
   <img src="https://img.shields.io/badge/Semantic UI-CB3837?style=for-the-badge&logo=Semantic-UI&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
