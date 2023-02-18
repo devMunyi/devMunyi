@@ -9,11 +9,10 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
 ##
 
 ## Educational Qualifications
-I have Completed :
+  - Professional Full-Stack Software Development Training 2023 at Microverse (Current)
   - Bachelors Degree in Mathematics & Computer Science in 2018
   - Professional Leadership Training with Distinction in 2018
-  - Professional Computer Application with Distinction in 2014
-  - Professional Full-Stack Software Development Training 2023 at Microverse (Current)
+  - Professional Computer Application Training with Distinction in 2014
 &nbsp;
 ## Hobbies
   - I like going for a workout and listening to music 🎧 as it relieves my stress levels 🏋️‍♀️ !
