@@ -59,15 +59,16 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitflow-F05032?style=for-the-badge&logo=gitflow&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <img src="https://img.shields.io/badge/ClI-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/ClI-2C8EBB?style=for-the-badge&logo=cli&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-FF2D20?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/RSpec-F37623?style=for-the-badge&logo=rspec&logoColor=white">
 </span>
 
 ##
