@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi, I am Samuel Munyi 👋</h1>
-<h3 align="center">A Software Engineer from Nairobi Kenya</h3>
+<h3 align="center">A Software Developer from Nairobi Kenya</h3>
 
 ### ABOUT ME
-As a <i>Multidisciplinary Software Engineer</i>, I possess extensive hands-on experience in developing responsive, dynamic, and high-performance applications using various technologies. These include JavaScript, jQuery, React, Redux, NextJs, NodeJs, Express, Ruby, Ruby on Rails, PHP, Laravel, PostgreSQL, MySQL, and MongoDB. In addition to my technical skills, I also possess exceptional soft skills. These include time management, expectation handling, working under pressure to meet deadlines, great communication skills, fluency in English, the ability to acquire new technical skills in a short period, and remote collaboration through pair programming.
+As a <i>Multidisciplinary Software Developer</i>, I possess extensive hands-on experience in developing responsive, dynamic, and high-performance applications using various technologies. These include JavaScript, jQuery, React, Redux, NextJs, NodeJs, Express, Ruby, Ruby on Rails, PHP, Laravel, PostgreSQL, MySQL, and MongoDB. In addition to my technical skills, I also possess exceptional soft skills. These include time management, expectation handling, working under pressure to meet deadlines, great communication skills, fluency in English, the ability to acquire new technical skills in a short period, and remote collaboration through pair programming.
 
 Currently, I am sharpening my full-stack development skills at Microverse, an online coding school. I work collaboratively with peers from different parts of the world for eight hours a day. I am excited to collaborate on new projects and bring them to life.
 
