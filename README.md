@@ -41,6 +41,8 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
   <img src="https://img.shields.io/badge/sequelize-2C8EBB?style=for-the-badge&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby on Rails-CA4245?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-2C8EBB?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=React-Native&logoColor=61DAFB">
 </span>
 
 <h4> Databases </h4>
