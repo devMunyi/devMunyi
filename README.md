@@ -95,11 +95,8 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
     
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
 ## 
-  
 ## Connect with me on:
-  
 <a target="_blank"
 href="mailto:samunyi90@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
