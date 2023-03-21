@@ -9,10 +9,11 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
 ##
 
 ## Educational Qualifications
-  - Professional Full-Stack Software Development Training 2023 at Microverse (Current)
-  - Bachelors Degree in Mathematics & Computer Science in 2018
-  - Professional Leadership Training with Distinction in 2018
-  - Professional Computer Application Training with Distinction in 2014
+- I am currently undergoing Professional Full-Stack Software Development Training at Microverse in 2023.
+- I obtained a Bachelor's Degree in Mathematics & Computer Science in 2018.
+- In 2018, I received Professional Leadership Training with distinction.
+- I completed Professional Computer Application Training with distinction in 2014.
+
 &nbsp;
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
