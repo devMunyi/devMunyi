@@ -27,7 +27,9 @@ Currently, I am sharpening my full-stack development skills at Microverse, an on
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CA4245?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </span>
+
 
 <h4> Frameworks & Libraries </h4>
 <span>
