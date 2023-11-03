@@ -68,7 +68,7 @@ I am open to new opportunities to utilize my skills and grow my professional net
 <h4> IDES </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Sublime_Text-333333?style=for-the-badge&logo=sublime%20text&logoColor=white">
+<img src="https://img.shields.io/badge/Sublime_Text-A52A2A?style=for-the-badge&logo=sublime%20text&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-78CFF5?style=for-the-badge&logo=intelliJ%20idea&logoColor=white">
 <img src="https://img.shields.io/badge/Atom-0095DD?style=for-the-badge&logo=Atom&logoColor=white">
 
