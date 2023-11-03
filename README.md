@@ -57,6 +57,12 @@ I am open to new opportunities to utilize my skills and grow my professional net
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
+<h4> Main Deployment Platforms </h4>
+<span>
+  <img src="https://img.shields.io/badge/AWS-F37623?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Digitalocean-0078D6?style=for-the-badge&logo=digitalocean&logoColor=white">
+</span>
+
 <h4> IDES </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -74,6 +80,9 @@ I am open to new opportunities to utilize my skills and grow my professional net
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git_Hub-121011?style=for-the-badge&logo=git-hub&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2C8EBB?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Hub-CA4245?style=for-the-badge&logo=docker-hubr&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Gitflow-F05032?style=for-the-badge&logo=gitflow&logoColor=white">
