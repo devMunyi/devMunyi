@@ -41,7 +41,7 @@ I am open to new opportunities to utilize my skills and grow my professional net
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/prisma?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/prisma-2C8EBB?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/sequelize-2C8EBB?style=for-the-badge&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby on Rails-CA4245?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
@@ -61,6 +61,7 @@ I am open to new opportunities to utilize my skills and grow my professional net
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Sublime_Text-3DDC84?style=for-the-badge&logo=sublime%20text&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0078D4?style=for-the-badge&logo=intelliJ%20idea&logoColor=white">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
 
 <h4> Operating System </h4>
