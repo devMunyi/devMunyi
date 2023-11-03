@@ -20,13 +20,13 @@ I am open to new opportunities to utilize my skills and grow my professional net
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-2C8EBB?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-CA4245?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-3399FF?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-800080?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-0077BE?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
@@ -34,57 +34,58 @@ I am open to new opportunities to utilize my skills and grow my professional net
 <h4> Frameworks & Libraries </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Ant Design-563D7C?style=for-the-badge&logo=Ant-Design&logoColor=FF2625">
-  <img src="https://img.shields.io/badge/Semantic UI-CB3837?style=for-the-badge&logo=Semantic-UI&logoColor=white">
+  <img src="https://img.shields.io/badge/Ant Design-1890FF?style=for-the-badge&logo=Ant-Design&logoColor=FF2625">
+  <img src="https://img.shields.io/badge/TailwindCSS-4DC0B5?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Semantic UI-8EAC00?style=for-the-badge&logo=Semantic-UI&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/prisma-2C8EBB?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/sequelize-2C8EBB?style=for-the-badge&logo=sequelize&logoColor=white">
+  <img src="https://img.shields.io/badge/sequelize-00438F?style=for-the-badge&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby on Rails-CA4245?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-2C8EBB?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=React-Native&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-1877F2?style=for-the-badge&logo=React-Native&logoColor=61DAFB">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-2C8EBB?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-0769AD?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-003399?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00A0C6?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-0074E4?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
 <h4> Main Deployment Platforms </h4>
 <span>
-  <img src="https://img.shields.io/badge/AWS-F37623?style=for-the-badge&logo=aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Digitalocean-0078D6?style=for-the-badge&logo=digitalocean&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
 </span>
 
 <h4> IDES </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Sublime_Text-3DDC84?style=for-the-badge&logo=sublime%20text&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-0078D4?style=for-the-badge&logo=intelliJ%20idea&logoColor=white">
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Sublime_Text-333333?style=for-the-badge&logo=sublime%20text&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-78CFF5?style=for-the-badge&logo=intelliJ%20idea&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-0095DD?style=for-the-badge&logo=Atom&logoColor=white">
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-A4C639?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Git_Hub-121011?style=for-the-badge&logo=git-hub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git_Hub-6CC644?style=for-the-badge&logo=git-hub&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2C8EBB?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker_Hub-CA4245?style=for-the-badge&logo=docker-hubr&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Hub-0DB7ED?style=for-the-badge&logo=docker-hubr&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-FF4500?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Gitflow-F05032?style=for-the-badge&logo=gitflow&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
