@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Nairobi Kenya</h3>
 
 ### ABOUT ME
-As a <i>Multidisciplinary Software Developer</i>, I possess extensive hands-on experience in developing responsive, scalable, and high-performant applications in serving high traffic. Tech stack include JavaScript/TypeScript, jQuery, React, Redux, NextJs, NodeJs, Express, Ruby, Ruby on Rails, PHP, Laravel, Java, PostgreSQL, MySQL, MongoDB and Docker. In addition to my technical skills, I also possess exceptional soft skills. These include time management, expectation handling, working under pressure to meet deadlines, great communication skills, fluency in English, the ability to acquire new technical skills in a short period, and remote collaboration through pair programming.
+As a <i>Multidisciplinary Software Developer</i>, I possess extensive hands-on experience in developing responsive, scalable, and high-performant applications in serving high traffic. Tech stack include JavaScript/TypeScript, jQuery, React, Redux, NextJs, NodeJs, Express, Golang/Gin, Ruby, Ruby on Rails, PHP, Laravel, Java, PostgreSQL, MySQL, MongoDB and Docker. In addition to my technical skills, I also possess exceptional soft skills. These include time management, expectation handling, working under pressure to meet deadlines, great communication skills, fluency in English, the ability to acquire new technical skills in a short period, and remote collaboration through pair programming.
 
 I am open to new opportunities to utilize my skills and grow my professional network as a Software Engineer.
 
