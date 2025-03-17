@@ -59,6 +59,18 @@ I am open to new opportunities to utilize my skills and grow my professional net
   <img src="https://img.shields.io/badge/SQLite-0074E4?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
+<h4> In-Memory Data Stores </h4>
+<span>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Memcached-0769AD?style=for-the-badge&logo=memcached&logoColor=white">
+</span>
+
+<h4> Message Brokers and Streaming Platforms </h4>
+<span>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+</span>
+
 <h4> Main Deployment Platforms </h4>
 <span>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white">
