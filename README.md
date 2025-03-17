@@ -28,33 +28,56 @@ I am open to new opportunities to utilize my skills and grow my professional net
   <img src="https://img.shields.io/badge/PHP-0077BE?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </span>
 
 
-<h4> Frameworks & Libraries </h4>
+<h4> Backend Frameworks </h4>
 <span>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Hono.js-EA5029?style=for-the-badge&logo=hono&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+</span>
+
+<h4> Frontend Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</span>
+
+<h4> Libraries </h4>
+<span>
+  <img src="https://img.shields.io/badge/Shadcn UI-38BDF8?style=for-the-badge&logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Ant Design-1890FF?style=for-the-badge&logo=Ant-Design&logoColor=FF2625">
   <img src="https://img.shields.io/badge/TailwindCSS-4DC0B5?style=for-the-badge&logo=TailwindCSS&logoColor=white">
   <img src="https://img.shields.io/badge/Semantic UI-8EAC00?style=for-the-badge&logo=Semantic-UI&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/prisma-2C8EBB?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/sequelize-00438F?style=for-the-badge&logo=sequelize&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
+</span>
+
+<h4> ORMs </h4>
+<span>
+  <img src="https://img.shields.io/badge/Drizzle-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwIiBoZWlnaHQ9IjQwIiB3aWR0aD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Sequelize-00438F?style=for-the-badge&logo=sequelize&logoColor=white">
+</span>
+
+<h4> Mobile Frameworks </h4>
+<span>
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React Native-1877F2?style=for-the-badge&logo=React-Native&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React Native-1877F2?style=for-the-badge&logo=nodedotjsreactnativecolor61DAFB">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/PostgreSQL-003399?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00A0C6?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-003399?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-0074E4?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
