@@ -64,7 +64,9 @@ I am open to new opportunities to utilize my skills and grow my professional net
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/Digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </span>
+
 
 <h4> IDES </h4>
 <span>
