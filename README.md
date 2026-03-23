@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Nairobi Kenya</h3>
 
 ### ABOUT ME
-Full Stack Developer with 4+ years building end-to-end applications — from scalable backend APIs to web and mobile.
+Full Stack Developer with 5+ years building end-to-end applications — from scalable backend APIs to web and mobile.
 
 I specialize in type-safe systems using Spring Boot (Java) on the backend and Next.js + React Native (TypeScript) on the frontend. Passionate about clean architecture, performance, and shipping reliable products.
 
