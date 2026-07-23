@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samuel Munyi 👋</h1>
-<h3 align="center">Senior Full Stack Engineer · TypeScript · React · Node.js · AI Integration</h3>
+<h3 align="center">Senior Full Stack Engineer · TypeScript · React · Node.js · DevOps · AI Integration</h3>
 
 &nbsp;
 
