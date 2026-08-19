@@ -5,7 +5,7 @@
 
 ### ABOUT ME
 
-Senior Full Stack Engineer with 6+ years building and scaling production systems in fintech. I specialize in end-to-end TypeScript systems — scalable REST/GraphQL APIs, React/Next.js frontends, distributed microservices, and AI-integrated backends.
+Senior Full Stack Engineer with 5+ years building and scaling production systems in fintech. I specialize in end-to-end TypeScript systems — scalable REST/GraphQL APIs, React/Next.js frontends, distributed microservices, and AI-integrated backends.
 
 I've shipped production features handling high-volume transactions, led architectural modernization from monolith to microservices, and integrated AI into real-world workflows — from OCR-based identity verification to Claude-powered course generation.
 
@@ -29,15 +29,15 @@ Open to senior roles, staff-level collaboration, and long-term remote engagement
 > **Stack:** Next.js 16 · tRPC · Prisma 7 · PostgreSQL · Anthropic Claude API · TypeScript · HeroUI · Tailwind CSS  
 > 🔗 **Live:** [vcourse.zidi.digital](https://vcourse.zidi.digital)
 
-#### [Kazi](https://github.com/devMunyi/resume-builder) — Job Search Workspace SaaS
+#### [Kazi](https://kazi.zidi.digital) — Job Search Workspace SaaS
 > Resume builder, achievement journal, job application tracker, cover letter builder, and AI-powered writing tools — built for African professionals. Supports M-Pesa, Stripe, and PayPal.  
 > **Stack:** Next.js 16 · tRPC · Prisma 7 · PostgreSQL · Anthropic Claude API · Stripe · M-Pesa Daraja · UploadThing · HeroUI  
-> 🔗 **Live:** [kazi.zidi.digital](https://kazi.zidi.digital)
+> 🔗 **Live:** [kazi.zidi.digital](https://kazi.zidi.digital) · source private, walkthrough on request
 
-#### [RentFlow](https://github.com/devMunyi/rental) — Rental Management SaaS
+#### [RentFlow](https://rentflow.zidi.digital) — Rental Management SaaS
 > Property management platform for Kenyan landlords — lease management, M-Pesa rent collection, tenant portal, maintenance requests, and utility billing.  
 > **Stack:** Next.js 16 · tRPC · Prisma · PostgreSQL · M-Pesa Daraja · HeroUI  
-> 🔗 **Live:** [rentflow.zidi.digital](https://rentflow.zidi.digital)
+> 🔗 **Live:** [rentflow.zidi.digital](https://rentflow.zidi.digital) · source private, walkthrough on request
 
 ---
 
