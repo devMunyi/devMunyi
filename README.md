@@ -26,17 +26,14 @@ Open to senior roles, staff-level collaboration, and long-term remote engagement
 
 #### [VideoCourse](https://github.com/devMunyi/video-course) — AI-Powered Learning
 > Converts any YouTube video into an interactive course with AI-generated milestones, active recall questions, and quizzes.  
-> **Stack:** Next.js 16 · tRPC · Prisma 7 · PostgreSQL · Anthropic Claude API · TypeScript · HeroUI · Tailwind CSS  
 > 🔗 **Live:** [vcourse.zidi.digital](https://vcourse.zidi.digital)
 
 #### [Kazi](https://kazi.zidi.digital) — Job Search Workspace
 > Resume builder, achievement journal, job application tracker, cover letter builder, and AI-powered writing tools — built for African professionals. Supports M-Pesa, Stripe, and PayPal.  
-> **Stack:** Next.js 16 · tRPC · Prisma 7 · PostgreSQL · Anthropic Claude API · Stripe · M-Pesa Daraja · UploadThing · HeroUI  
 > 🔗 **Live:** [kazi.zidi.digital](https://kazi.zidi.digital) · source private, walkthrough on request
 
 #### [RentFlow](https://rentflow.zidi.digital) — Rental Management
 > Property management platform for Kenyan landlords — lease management, M-Pesa rent collection, tenant portal, maintenance requests, and utility billing.  
-> **Stack:** Next.js 16 · tRPC · Prisma · PostgreSQL · M-Pesa Daraja · HeroUI  
 > 🔗 **Live:** [rentflow.zidi.digital](https://rentflow.zidi.digital) · source private, walkthrough on request
 
 ---
