@@ -24,15 +24,15 @@ Open to senior roles, staff-level collaboration, and long-term remote engagement
 
 ### 🚀 Featured Projects
 
-#### [VideoCourse](https://github.com/devMunyi/video-course) — AI-Powered Learning
+#### [VideoCourse](https://github.com/devMunyi/vcourse-showcase) — AI-Powered Learning
 > Converts any YouTube video into an interactive course with AI-generated milestones, active recall questions, and quizzes.  
 > 🔗 **Live:** [vcourse.zidi.digital](https://vcourse.zidi.digital)
 
-#### [Kazi](https://kazi.zidi.digital) — Job Search Workspace
+#### [Kazi](https://github.com/devMunyi/kazi-showcase) — Job Search Workspace
 > Resume builder, achievement journal, job application tracker, cover letter builder, and AI-powered writing tools — built for African professionals. Supports M-Pesa, Stripe, and PayPal.  
 > 🔗 **Live:** [kazi.zidi.digital](https://kazi.zidi.digital) · source private, walkthrough on request
 
-#### [RentFlow](https://rentflow.zidi.digital) — Rental Management
+#### [RentFlow](https://github.com/devMunyi/rental-showcase) — Rental Management
 > Property management platform for Kenyan landlords — lease management, M-Pesa rent collection, tenant portal, maintenance requests, and utility billing.  
 > 🔗 **Live:** [rentflow.zidi.digital](https://rentflow.zidi.digital) · source private, walkthrough on request
 
