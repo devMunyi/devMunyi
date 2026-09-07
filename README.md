@@ -10,7 +10,7 @@ Senior Full Stack Engineer with 5+ years building and scaling production systems
 I've shipped production features handling high-volume transactions, led architectural modernization from monolith to microservices, and integrated AI into real-world workflows — from OCR-based identity verification to Claude-powered course generation.
 
 **What I work on:**
-- Full-stack SaaS products (Next.js · tRPC · Prisma · Drizzle · PostgreSQL)
+- Full-stack products (Next.js · tRPC · Prisma · Drizzle · PostgreSQL)
 - Backend APIs (Hono.js · Node.js · REST · GraphQL)
 - AI integration (Anthropic Claude API · structured output pipelines · fraud detection)
 - Payment systems (Stripe · PayPal · M-Pesa Daraja)
